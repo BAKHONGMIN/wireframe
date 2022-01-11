@@ -4,13 +4,14 @@ body,html{
 }
 header{
     float: left;
-    height: 100px;
-    width: 1200px;
+    height: 670px;
+    width: 200px;
+    background-color: #ff00ee;
 }
 .top{
     float: left;
-    height: 100px;
-    width: 1200px;
+    height: 600px;
+    width: 200px;
 }
 .logo{
     float: left;
@@ -19,38 +20,38 @@ header{
     background-color: #eeeeee;
 }
 nav{
-    float: right;
+    float: left;
 }
 .menu{
-    float: right;
-    width: 600px;
-    background-color: blue;
+    float: left;
+    width: 150px;
+    background-color: #eeeeee;
 }
 .menu>li{
-    float:right;
-    width: 200px;
+    float:left;
+    width: 150px;
 }
 .imgslide{
     float: left;
     height: 350px;
-    width: 1200px;
+    width: 1000px;
     background-color: #00ffff;
 }
 .contents{
     float: left;
     height: 200px;
-    width: 1200px;
+    width: 1000px;
 }
 .notice{
     float: left;
     height: 200px;
-    width: 400px;
+    width: 300px;
     background-color: red;
 }
 .gallery{
     float: left;
     height: 200px;
-    width: 400px;
+    width: 300px;
     background-color: orange;
 }
 .shortcut{
@@ -63,13 +64,13 @@ nav{
 footer{
     float: left;
     height: 120px;
-    width: 1200px;
+    width: 1000px;
     background-color: #eeeeee;
 }
 .copy{
     float: left;
     height: 120px;
-    width: 800px;
+    width: 600px;
 }
 .site{
     float: right;
